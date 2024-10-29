@@ -1,0 +1,18 @@
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\bin\Debug\[APP DEV PROJECT]_CAFE.exe.config
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\bin\Debug\[APP DEV PROJECT]_CAFE.exe
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\bin\Debug\[APP DEV PROJECT]_CAFE.pdb
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.Form1.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.Properties.Resources.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.csproj.GenerateResource.cache
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.exe
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.pdb
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.Dashboard.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.AllUserControls.UC_Welcome.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.AllUserControls.UC_Additems.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.AllUserControls.UC_PlaceOrder.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\bin\Debug\Guna.UI2.dll
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\[APP DEV PROJECT]_CAFE.csproj.CopyComplete
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.AllUserControls.UC_UpdateItems.resources
+C:\Users\ธนานพ\source\repos\[APP DEV PROJECT]_CAFE\[APP DEV PROJECT]_CAFE\obj\Debug\_APP_DEV_PROJECT__CAFE.AllUserControls.UC_RemoveItems.resources

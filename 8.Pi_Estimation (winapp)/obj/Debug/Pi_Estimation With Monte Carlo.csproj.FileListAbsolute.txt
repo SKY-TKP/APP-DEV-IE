@@ -1,0 +1,10 @@
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\bin\Debug\Pi_Estimation With Monte Carlo.exe.config
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\bin\Debug\Pi_Estimation With Monte Carlo.exe
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\bin\Debug\Pi_Estimation With Monte Carlo.pdb
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation With Monte Carlo.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation_With_Monte_Carlo.Form1.resources
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation_With_Monte_Carlo.Properties.Resources.resources
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation With Monte Carlo.csproj.GenerateResource.cache
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation With Monte Carlo.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation With Monte Carlo.exe
+C:\Users\ธนานพ\source\repos\Pi_Estimation With Monte Carlo\Pi_Estimation With Monte Carlo\obj\Debug\Pi_Estimation With Monte Carlo.pdb

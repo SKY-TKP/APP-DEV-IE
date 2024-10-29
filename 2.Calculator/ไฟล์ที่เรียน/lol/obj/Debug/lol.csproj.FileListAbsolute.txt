@@ -1,0 +1,11 @@
+C:\Users\cuie\Desktop\Gem\lol\lol\bin\Debug\lol.exe.config
+C:\Users\cuie\Desktop\Gem\lol\lol\bin\Debug\lol.exe
+C:\Users\cuie\Desktop\Gem\lol\lol\bin\Debug\lol.pdb
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.csproj.AssemblyReference.cache
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.csproj.SuggestedBindingRedirects.cache
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.Form1.resources
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.Properties.Resources.resources
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.csproj.GenerateResource.cache
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.exe
+C:\Users\cuie\Desktop\Gem\lol\lol\obj\Debug\lol.pdb

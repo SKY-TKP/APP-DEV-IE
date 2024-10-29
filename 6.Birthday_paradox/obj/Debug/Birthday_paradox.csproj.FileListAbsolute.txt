@@ -1,0 +1,7 @@
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\obj\Debug\Birthday_paradox.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\obj\Debug\Birthday_paradox.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\bin\Debug\Birthday_paradox.exe.config
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\bin\Debug\Birthday_paradox.exe
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\bin\Debug\Birthday_paradox.pdb
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\obj\Debug\Birthday_paradox.exe
+C:\Users\ธนานพ\source\repos\Birthday_paradox\Birthday_paradox\obj\Debug\Birthday_paradox.pdb

@@ -1,0 +1,10 @@
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.Form1.resources
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.Properties.Resources.resources
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.csproj.GenerateResource.cache
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Forest\Forest\bin\Debug\Forest.exe.config
+C:\Users\ธนานพ\source\repos\Forest\Forest\bin\Debug\Forest.exe
+C:\Users\ธนานพ\source\repos\Forest\Forest\bin\Debug\Forest.pdb
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.exe
+C:\Users\ธนานพ\source\repos\Forest\Forest\obj\Debug\Forest.pdb

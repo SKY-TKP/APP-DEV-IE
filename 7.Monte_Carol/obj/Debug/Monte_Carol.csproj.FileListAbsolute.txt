@@ -1,0 +1,7 @@
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\bin\Debug\Monte_Carol.exe.config
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\bin\Debug\Monte_Carol.exe
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\bin\Debug\Monte_Carol.pdb
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\obj\Debug\Monte_Carol.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\obj\Debug\Monte_Carol.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\obj\Debug\Monte_Carol.exe
+C:\Users\ธนานพ\source\repos\Monte_Carol\Monte_Carol\obj\Debug\Monte_Carol.pdb

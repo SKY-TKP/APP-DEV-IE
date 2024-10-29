@@ -1,0 +1,11 @@
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\bin\Debug\Triangle.exe
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\bin\Debug\Triangle.pdb
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.exe
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.pdb
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.Triangle_calculater.resources
+C:\Users\ธนานพ\source\repos\Triangle\Triangle\obj\Debug\Triangle.Form2.resources

@@ -1,0 +1,7 @@
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\bin\Debug\Assignment_1_Triangle.exe.config
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\bin\Debug\Assignment_1_Triangle.exe
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\bin\Debug\Assignment_1_Triangle.pdb
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\obj\Debug\Assignment_1_Triangle.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\obj\Debug\Assignment_1_Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\obj\Debug\Assignment_1_Triangle.exe
+C:\Users\ธนานพ\source\repos\Assignment_1_Triangle\Assignment_1_Triangle\obj\Debug\Assignment_1_Triangle.pdb

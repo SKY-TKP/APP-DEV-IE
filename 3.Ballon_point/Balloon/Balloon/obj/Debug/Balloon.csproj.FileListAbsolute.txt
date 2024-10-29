@@ -1,0 +1,10 @@
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\bin\Debug\Balloon.exe.config
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\bin\Debug\Balloon.exe
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\bin\Debug\Balloon.pdb
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.csproj.AssemblyReference.cache
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.Form1.resources
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.Properties.Resources.resources
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.csproj.GenerateResource.cache
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.csproj.CoreCompileInputs.cache
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.exe
+C:\Users\ธนานพ\source\repos\Balloon\Balloon\obj\Debug\Balloon.pdb
